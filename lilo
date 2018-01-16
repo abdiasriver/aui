@@ -1077,7 +1077,7 @@ install_desktop_environment(){
   echo " 2) Deepin          11) Fluxbox"
   echo " 3) Enlightenment   12) i3"
   echo " 4) GNOME           13) OpenBox"
-  echo " 5) plasma             14) Xmonad"
+  echo " 5) KDE             14) Xmonad"
   echo " 6) LXQT"
   echo " 7) Mate"
   echo " 8) XFCE"
